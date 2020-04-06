@@ -1,3 +1,3 @@
 # torch_nlp_basic
-- Inflearn
+- Inflearn Lecture
 - Basic Concept to understand NLP
