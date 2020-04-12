@@ -1,3 +1,3 @@
 # torch_nlp_basic
-- Inflearn Lecture Code
+- Code about Inflearn Lecture
 - Basic Concept to understand Natural Language Process
